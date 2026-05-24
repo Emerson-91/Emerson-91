@@ -60,18 +60,11 @@ Sou especialista na área de Infraestrutura de Redes, Suporte e Desenvolvimento 
     <img src="https://img.shields.io/badge/JOGAR-JOGO%20DA%20MEMORIA-brightgreen?style=for-the-badge&logo=gamecontroller&logoColor=white" alt="Jogar Jogo da Memoria">
   </a>
   
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <!-- Botão para o Jogo da Unigran -->
   <a href="https://emerson-91.github.io/jogo_unigran/" target="_blank">
     <img src="https://img.shields.io/badge/JOGAR-UNIGRAN%20GAME-blue?style=for-the-badge&logo=unity&logoColor=white" alt="Jogar Unigran">
   </a>
-
-  <br><br>
-  
-  <p><b>Visualizacoes no perfil:</b></p>
-  <img src="https://hits.seco.co/Emerson-91/Emerson-91.svg" alt="Contador de Visitas" />
-</div>
----
 
 <div align="center">
   <sub>Configurado por Emerson-91. Ultima atualizacao em 2026.</sub>

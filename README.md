@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Efeito de Digitação Animada -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=27B7F5&center=true&vCenter=true&width=900&lines=Ola%2C+eu+sou+o+Emerson!;Gestor+de+Suporte+e+Redes;Professor+e+Coordenador+Academico;Apaixonado+por+Redes,+Desenvolvimento+e+Jogos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=27B7F5&center=true&vCenter=true&width=900&lines=Ola%2C+eu+sou+o+Emerson!;Gestor+de+Suporte+e+Redes;Professor+e+Coordenador+Acadêmico;Apaixonado+por+Redes,+Desenvolvimento+e+Jogos" alt="Typing SVG" />
 </div>
 
 ---

@@ -69,10 +69,9 @@ Sou especialista na área de Infraestrutura de Redes, Suporte e Desenvolvimento 
 
   <br><br>
   
-  <p><b>Atividade de contribuicoes transformada em jogo (Snake):</b></p>
-  <img src="https://raw.githubusercontent.com/Emerson-91/Emerson-91/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
+  <p><b>Visualizacoes no perfil:</b></p>
+  <img src="https://komarev.com/badge/counter.svg?username=Emerson-91&color=blue&style=flat" alt="Contador de Visitas" />
 </div>
-
 ---
 
 <div align="center">

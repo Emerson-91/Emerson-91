@@ -39,7 +39,6 @@ Sou especialista na área de Infraestrutura de Redes, Suporte e Desenvolvimento 
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emerson-91&theme=tokyonight&hide_border=true" alt="Streak de Contribuições" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-91&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
@@ -70,7 +69,7 @@ Sou especialista na área de Infraestrutura de Redes, Suporte e Desenvolvimento 
   <br><br>
   
   <p><b>Visualizacoes no perfil:</b></p>
-  <img src="https://komarev.com/badge/counter.svg?username=Emerson-91&color=blue&style=flat" alt="Contador de Visitas" />
+  <img src="https://hits.seco.co/Emerson-91/Emerson-91.svg" alt="Contador de Visitas" />
 </div>
 ---
 

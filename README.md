@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Efeito de Digitação Animada -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Ola%2C+eu+sou+o+Emerson!;Gestor+de+Suporte+e+Redes;Professor+e+Coordenador+Academico;Apaixonado+por+Desenvolvimento+e+Jogos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Ola%2C+eu+sou+o+Emerson!;Gestor+de+Suporte+e+Redes;Professor+e+Coordenador+Academico;Apaixonado+por+Redes+Desenvolvimento+e+Jogos" alt="Typing SVG" />
 </div>
 
 ---
@@ -34,14 +34,16 @@ Sou especialista na área de Infraestrutura de Redes, Suporte e Desenvolvimento 
 
 ---
 
+
 ## Estatisticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson-91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatisticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-91&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emerson-91&theme=tokyonight&hide_border=true" alt="Streak de Contribuições" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-91&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
+
 
 ## Meus Jogos (Hospedados no GitHub Pages)
 

@@ -61,6 +61,12 @@ Sou especialista na área de Infraestrutura de Redes, Suporte e Desenvolvimento 
   </a>
   
   &nbsp;
+      <!-- Botão para o Jogo de luta -->
+  <a href="https://emerson-91.github.io/GameLuta/" target="_blank">
+    <img src="https://img.shields.io/badge/JOGAR-Super%20Fighters%20-brightgreen?style=for-the-badge&logo=gamecontroller&logoColor=white" alt="Jogar Super Fighters">
+  </a>
+  
+  &nbsp;
   <!-- Botão para o Jogo da Unigran -->
   <a href="https://emerson-91.github.io/jogo_unigran/" target="_blank">
     <img src="https://img.shields.io/badge/JOGAR-UNIGRAN%20GAME-blue?style=for-the-badge&logo=unity&logoColor=white" alt="Jogar Unigran">
